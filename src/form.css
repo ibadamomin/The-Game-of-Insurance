@@ -1,0 +1,51 @@
+  .form-box h5{
+    font-size: 35px ;
+    text-align: center;
+    color: #F55A00;
+    margin: 0 0 .5vh 0;
+  }
+  
+  .form-box input, textarea{
+    display: block;
+    width: 50%;
+    padding: .5rem .8rem .5rem .8rem;
+    margin: .9vw 0 ;
+    border:0;
+    border-radius: 5px;
+    font-size: 20px;
+  }
+  
+  .field1 {
+    display: flex;
+    flex-direction: column;
+    color: rgba(255, 0, 21, 0.938);
+    font-family: verdana;
+    font-size: 200%;
+    
+  }
+  
+  .submitBtn {
+    background-color: #af4c4c;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: 90%;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+  }
+  
+  label {
+    color: #B4886B;
+    font-weight: bold;
+    display: block;
+    width: 300px;
+    float: left;
+    padding: .5rem .8rem .5rem .8rem;
+    margin: .9vw 0 ;
+}
