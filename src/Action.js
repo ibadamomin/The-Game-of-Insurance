@@ -9,7 +9,7 @@ export default function Career() {
                 type = {item.type}
                 img = {item.image}
                 des = {item.des}
-                page = {item.page}
+                page = {item.path}
         />)
     })
     return(

@@ -26,7 +26,7 @@ export default [
     {
         id: 4,
         name: "Audi R8 2023",
-        image: "/images/AudiR82.jpg",
+        image: "/images/AudiR.jpg",
         des: "Cost: $158,600",
         type: "Vechicle",
         path: '/Audi',

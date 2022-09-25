@@ -63,13 +63,12 @@ body {
 .button-group {
     margin-top: 30px;
     width: 200px;
-    height: 40px;
+    height: 65px;
     border-radius: 15px ;
     border-style: none;
     background-color: #f6f9fe;
     border-radius: 24px;
     border-style: none;
-    
     box-sizing: border-box;
     color: #3c4043;
     cursor: pointer;

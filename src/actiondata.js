@@ -4,7 +4,8 @@ export default [
         name: "Refinancing Car Loan",
         image: "/images/1.png",
         des: "Player gets their car loan refinanced.",
-        type: "Action"
+        type: "Action",
+        path: "/Insurance"
     }, 
     
     {
@@ -14,6 +15,7 @@ export default [
         image: "/images/2.png",
         name: "Player Income Increase",
         des: "Player gets a raise at work.",
+        path: "/Insurance"
     }, 
     {
         id: 3,
@@ -22,6 +24,7 @@ export default [
         image: "/images/3.png",
         name: "Player gets into a car accident",
         des: "Player gets into a car accident.",
+        path: "/Insurance"
     }, 
     {
         id: 4,
@@ -29,6 +32,7 @@ export default [
         name: "Player Gets Fired From Job",
         image: "/images/4.png",
         des: "Player gets fired from their job.",
+        path: "/Insurance"
     },
     {
         id: 5,
@@ -37,7 +41,7 @@ export default [
         name: "Player Upgrades Car",
         image: "/images/5.png",
         des: "Player upgrades their car.",
-        
+        path: "/Insurance"
     }
 
 ]

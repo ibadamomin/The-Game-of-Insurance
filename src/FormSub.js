@@ -108,7 +108,7 @@ function FormSub() {
 
 const navigate = useNavigate();
 const navigateHome = () => {
-    navigate('/Insurance');
+    navigate('/Action');
 };
 return (
     <div className="form-box">
